@@ -1,4 +1,4 @@
-#👋 Hola, Soy @lmtreser
+👋 Hola, Soy @lmtreser
 
 ✍🏻 Escribo sobre electrónica, programación y tecnologías de ayer y de hoy. Además construyo y arreglo cosas, generalmente electrónicas.
 
