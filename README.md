@@ -1,4 +1,4 @@
-# Acerca...
+🧑🏻 [Acerca de...](https://lmtreser.github.io/)
 
 ✍🏻 Escribo sobre electrónica, programación y tecnologías de ayer y de hoy. Además construyo y arreglo cosas, generalmente electrónicas. 
 
