@@ -1,4 +1,4 @@
-✍🏻 Escribo sobre electrónica, programación y tecnologías de ayer y de hoy. Además construyo y arreglo cosas, generalmente electrónicas. Más info acá mismo en [GitHub](https://lmtreser.github.io/).
+✍🏻 Escribo sobre electrónica, programación y tecnologías de ayer y de hoy. Además construyo y arreglo cosas, generalmente electrónicas. Más info acá mismo en [lmtreser.github.io](https://lmtreser.github.io/).
 
 🌱 Actualmente estoy aprendiendo Machine Learning.
 
