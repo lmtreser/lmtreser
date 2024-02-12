@@ -10,4 +10,4 @@
 
 📤 Do you have any ideas or projects in mind? Feel free to contact me via [email](mailto: lmtreser@gmail.com)!
 
-🌐 You can also find more information about my work on my [About]() page, my [Blog](), and my profiles on [GitHub](), [GitLab](), and [Mastodon]().
+🌐 You can also find more information about my work on my [About](https://lmtreser.github.io/) page, my [Blog](https://www.automatismos-mdq.com.ar), and my profiles on [GitHub](https://github.com/lmtreser), [GitLab](https://gitlab.com/lmtreser), and [Mastodon](https://mastodon.online/@lmtreser).
