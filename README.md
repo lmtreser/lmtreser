@@ -1,13 +1,16 @@
-🛠️ Desarrollo software, la mayor parte del tiempo orientado a microcontroladores. Además construyo y arreglo cosas, generalmente electrónicas.
+🛠️ Soy desarrollador de software, principalmente enfocado en microcontroladores. Además, tengo experiencia en la construcción y reparación de dispositivos electrónicos.
 
-✍🏻 Escribo sobre electrónica, programación y tecnologías de ayer y de hoy.
+✍🏻 Escribo sobre temas relacionados con electrónica, programación y tecnologías de ayer y de hoy.
 
-🌱 Actualmente aprendiendo *Machine Learning*.
+🌱 Actualmente estoy aprendiendo Machine Learning.
 
-💞️ Busco colaborar en proyectos abiertos, tanto en la creación de prototipos físicos como de software.
+💞️ Estoy interesado en colaborar en proyectos de código abierto, tanto en la creación de prototipos físicos como en el desarrollo de software.
 
-👀 Muchos intereses: Educación, Electrónica, Microcontroladores, Machine Learning, Ciencia de Datos, Arduino, Internet of Things, Domótica, Programación, Lenguajes: C/C++/MicroPython/Python, Impresión 3D, GNU/Linux, OpenHardware, FreeSoftware y RetroComputación.
+👀 Tengo una amplia gama de intereses, incluyendo educación, electrónica, microcontroladores, Machine Learning, ciencia de datos, Arduino, Internet de las Cosas, domótica, programación (especialmente en los lenguajes C/C++, MicroPython y Python), impresión 3D, GNU/Linux, hardware libre, software libre y retrocomputación.
 
-📤 ¿Tenés una idea o proyecto en mente? [¡Envíame un correo electrónico!](mailto:lmtreser@gmail.com).
+📤 ¿Tenes alguna idea o proyecto en mente? ¡No dudes en contactarme por [correo electrónico](mailto:lmtreser@gmail.com)!
 
-🌐 Otras formas de ver mi trabajo: [About](https://lmtreser.github.io/), [Blog](https://www.automatismos-mdq.com.ar), [GitHub](https://github.com/lmtreser), [GitLab](https://gitlab.com/lmtreser), [Mastodon](https://mastodon.online/@lmtreser).
+🌐 También podes encontrar más información sobre mi trabajo en mi página [About](https://lmtreser.github.io/), mi Blog y mis perfiles en GitHub, GitLab y Mastodon.
+
+
+🌐 Otras formas de ver mi trabajo: [About](), [Blog](https://www.automatismos-mdq.com.ar), [GitHub](https://github.com/lmtreser), [GitLab](https://gitlab.com/lmtreser), [Mastodon](https://mastodon.online/@lmtreser).
