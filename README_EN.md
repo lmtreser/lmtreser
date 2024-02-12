@@ -8,6 +8,6 @@
 
 👀 I have a wide range of interests, including education, electronics, microcontrollers, Machine Learning, data science, Arduino, Internet of Things, home automation, programming (especially in languages like C/C++, MicroPython, and Python), 3D printing, GNU/Linux, open hardware, free software, and retrocomputing.
 
-📤 Do you have any ideas or projects in mind? Feel free to contact me via email!
+📤 Do you have any ideas or projects in mind? Feel free to contact me via [email](mailto: lmtreser@gmail.com)!
 
-🌐 You can also find more information about my work on my About page, my Blog, and my profiles on GitHub, GitLab, and Mastodon.
+🌐 You can also find more information about my work on my [About]() page, my [Blog](), and my profiles on [GitHub](), [GitLab](), and [Mastodon]().
