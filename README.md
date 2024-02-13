@@ -6,7 +6,7 @@
 
 💞️ Estoy interesado en colaborar en proyectos de código abierto, tanto en la creación de prototipos físicos como en el desarrollo de software.
 
-👀 Tengo una amplia gama de intereses, incluyendo educación, electrónica, microcontroladores, Machine Learning, ciencia de datos, Arduino, Internet de las Cosas, domótica, programación (especialmente en los lenguajes C/C++, MicroPython y Python), impresión 3D, GNU/Linux, hardware libre, software libre y retrocomputación.
+👀 Tengo una amplia gama de intereses, incluyendo educación, electrónica, microcontroladores, Machine Learning, ciencia de datos, Arduino, IoT, domótica, programación (especialmente en los lenguajes C/C++, MicroPython y Python), impresión 3D, GNU/Linux, hardware libre, software libre y retrocomputación.
 
 📤 ¿Tenes alguna idea o proyecto en mente? ¡No dudes en contactarme por [correo electrónico](mailto:lmtreser@gmail.com)!
 
