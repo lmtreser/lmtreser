@@ -1,8 +1,4 @@
-🛠️ Soy desarrollador de software, principalmente enfocado en microcontroladores. Además, tengo experiencia en la construcción y reparación de dispositivos electrónicos.
-
-✍🏻 Escribo sobre temas relacionados con electrónica, programación y tecnologías de ayer y de hoy.
-
-🌱 Actualmente estoy aprendiendo Machine Learning.
+🛠️ Trabajo en software, principalmente enfocado en ecosistemas basados en microcontroladores. Además, tengo experiencia en la construcción y reparación de dispositivos electrónicos.
 
 💞️ Estoy interesado en colaborar en proyectos de código abierto, tanto en la creación de prototipos físicos como en el desarrollo de software.
 
