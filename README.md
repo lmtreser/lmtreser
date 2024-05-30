@@ -1,4 +1,4 @@
-🛠️ Trabajo en software, principalmente enfocado en ecosistemas basados en microcontroladores. Además, tengo experiencia en la construcción y reparación de dispositivos electrónicos.
+🛠️ Trabajo en educación y en la creación de software, principalmente enfocado en ecosistemas basados en microcontroladores. Además, tengo experiencia en la construcción y reparación de dispositivos electrónicos.
 
 💞️ Estoy interesado en colaborar en proyectos de código abierto, tanto en la creación de prototipos físicos como en el desarrollo de software.
 
