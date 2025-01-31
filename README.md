@@ -6,4 +6,4 @@
 
 📤 ¿Tenes alguna idea o proyecto en mente? ¡No dudes en contactarme por [correo electrónico](mailto:lmtreser@gmail.com)!
 
-🌐 También podes encontrar más información sobre mi trabajo en mi página [About](https://lmtreser.github.io/), mi [Blog](https://www.automatismos-mdq.com.ar) y mis perfiles en [GitHub](https://github.com/lmtreser) y [GitLab](https://gitlab.com/lmtreser).
+🌐 También podes encontrar más información sobre mi trabajo en mi página [About](https://lmtreser.github.io/), mi [Blog](https://www.automatismos-mdq.com.ar) y mi perfil en [GitHub](https://github.com/lmtreser).
