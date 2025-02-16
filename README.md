@@ -1,8 +1,6 @@
-🛠️ Trabajo en educación y en la creación de software, principalmente enfocado en ecosistemas basados en microcontroladores. Además, tengo experiencia en la construcción y reparación de dispositivos electrónicos.
+🛠️ Trabajo en educación y en la creación de software, principalmente enfocado en ecosistemas basados en microcontroladores.
 
-💞️ Estoy interesado en colaborar en proyectos de código abierto, tanto en la creación de prototipos físicos como en el desarrollo de software.
-
-👀 Tengo una amplia gama de intereses, incluyendo educación, electrónica, microcontroladores, Machine Learning, ciencia de datos, Arduino, IoT, domótica, programación (especialmente en los lenguajes C/C++, Python y MicroPython), impresión 3D, GNU/Linux, hardware libre, software libre y retrocomputación.
+👀 Intereses: educación, electrónica, microcontroladores, Machine Learning, ciencia de datos, Arduino, IoT, domótica, C/C++, Python, MicroPython, impresión 3D, GNU/Linux, hardware & software libre y retrocomputación.
 
 📤 ¿Tenes alguna idea o proyecto en mente? ¡No dudes en contactarme por [correo electrónico](mailto:lmtreser@gmail.com)!
 
