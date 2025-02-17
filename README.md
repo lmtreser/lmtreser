@@ -5,6 +5,7 @@
 📤 Do you have any ideas or projects in mind? Feel free to contact me by email!
 
 🌐 You can also find more information about my work on my [About page](https://lmtreser.github.io/), and on my [Blog](https://www.automatismos-mdq.com.ar).
+
 ---
 <details>
 <summary>Español</summary>
