@@ -6,9 +6,8 @@
 
 🌐 You can also find more information about my work on my [About page](https://lmtreser.github.io/), and on my [Blog](https://www.automatismos-mdq.com.ar).
 
----
 <details>
-<summary>Español</summary>
+<summary>Clic para español</summary>
 <br>
 🛠️ Trabajo en educación y en la creación de software, principalmente enfocado en ecosistemas basados en microcontroladores.
 <br><br>
