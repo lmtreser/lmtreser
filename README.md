@@ -6,5 +6,7 @@
 
 🌐 You can also find more information about my work on my [About page](https://lmtreser.github.io/), and on my [Blog](https://www.automatismos-mdq.com.ar).
 
----
-[English Version](https://github.com/lmtreser/lmtreser/blob/main/README_EN.md)
+<details>
+  <summary>Haz clic para ver más</summary>
+  Este es el contenido oculto. Puedes escribir todo lo que quieras aquí.
+</details>
