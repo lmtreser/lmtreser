@@ -2,7 +2,7 @@
 
 👀 Interests: education, electronics, microcontrollers, Machine Learning, data science, Arduino, IoT, home automation, C/C++, Python, MicroPython, 3D printing, GNU/Linux, free hardware & software, and retrocomputing.
 
-📤 Do you have any ideas or projects in mind? Feel free to contact me by email!
+📤 Do you have any ideas or projects in mind? Feel free to contact me by [email](mailto:lmtreser@gmail.com)!
 
 🌐 You can also find more information about my work on my [About page](https://lmtreser.github.io/), and on my [Blog](https://www.automatismos-mdq.com.ar).
 
