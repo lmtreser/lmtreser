@@ -13,7 +13,7 @@
 <br><br>
 👀 Intereses: educación, electrónica, microcontroladores, Machine Learning, ciencia de datos, Arduino, IoT, domótica, C/C++, Python, MicroPython, impresión 3D, GNU/Linux, hardware & software libre y retrocomputación.
 <br><br>
-📤 ¿Tenes alguna idea o proyecto en mente? ¡No dudes en contactarme por correo electrónico!
+📤 ¿Tenes alguna idea o proyecto en mente? ¡No dudes en contactarme por [correo electrónico!](mailto:lucas@automatismos-mdq.com.ar)
 <br><br>
 🌐 También podes encontrar más información sobre mi trabajo en mi página <a href="https://lmtreser.github.io/">About</a>, y en mi <a href="https://www.automatismos-mdq.com.ar">Blog</a>.
 </details>
